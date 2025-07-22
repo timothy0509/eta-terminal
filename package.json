@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "hk-bus-eta": "^3.7.4",
+    "node-fetch": "^3.3.2"
+  }
+}
